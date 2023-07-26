@@ -35,8 +35,6 @@ Insights:
   Pie Chart: Illustration of the revenue distribution of % of orders from each channel (Ex. Ajio, Amazon, Flipkart, etc.,)
   to assess their relative contributions to total sales.
 
-         
-
 Concultion:
       The Vrinda Store Sales Analysis Report provides valuable insights into the store's performance, enabling stakeholders to make data-driven decisions and enhance various aspects of the business. 
 By implementing the recommended strategies, the store can optimize sales, customer satisfaction, and profitability, ultimately driving long-term success.
