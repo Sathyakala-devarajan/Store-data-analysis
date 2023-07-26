@@ -34,9 +34,7 @@ Insights:
         This section evaluates sales performance across different sales channels:
   Pie Chart: Illustration of the revenue distribution of % of orders from each channel (Ex. Ajio, Amazon, Flipkart, etc.,)
   to assess their relative contributions to total sales.
-
         Above all insignts are varies by Month, Channel and category.
-
 
 Concultion:
       The Vrinda Store Sales Analysis Report provides valuable insights into the store's performance, enabling stakeholders to make data-driven decisions and enhance various aspects of the business. 
